@@ -2,11 +2,14 @@
   "name": "videostream",
   "version": "1.0.0",
   "main": "index.js",
-  "type" : "module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
   "author": "Sakshi Priya",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.5.1"
+  }
 }
